@@ -1,4 +1,4 @@
-const apiKey = '76d079f0'; // Get an API key from http://www.omdbapi.com/apikey.aspx
+const apiKey = '76d079f0'; 
 
 const movieInput = document.getElementById('movieInput');
 const searchButton = document.getElementById('searchButton');

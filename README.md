@@ -12,7 +12,6 @@ A simple JavaScript web application to search for and display movie details.
 
 ## Images
 
-
 - [Screenshots](images/Screenshot1.png)
 - [Screenshots](images/Screenshot2.png)
 - [Screenshots](images/Screenshot3.png)
